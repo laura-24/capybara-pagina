@@ -57,6 +57,9 @@ h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
+  border-bottom-style: solid;
+  border-bottom-color: #6f717d;
+  border-bottom-width: 2px
 }
 
 h2 {
