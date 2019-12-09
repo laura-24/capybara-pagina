@@ -69,6 +69,12 @@ h2 {
   background-color: white;
   border-bottom: 1px solid #efefef;
 }
+
+.right {
+	float: right;
+	padding: 0 3px 5px 0;
+}
+
 a:link {
   color: #6f717d;
   text-decoration: none;
