@@ -84,17 +84,17 @@ a:link {
     padding-left: 20px;
   }
 
-    .page-nav ul li {
+    .page-nav ul {
       transition: all 300ms ease;
       left: 0px;
-      position: relative;
+      position: absolute;
       line-height: 200%;
     }
 
-      .page-nav ul li:hover {
+      .page-nav ul:hover {
         left: 4px;
       }
 
-      .page-nav ul li a:visited {
+      .page-nav ul a:visited {
         color: #6f717d;
       }
