@@ -91,10 +91,6 @@ a:link {
       line-height: 200%;
     }
 
-      .page-nav ul:hover {
-        left: 4px;
-      }
-
       .page-nav ul a:visited {
         color: #6f717d;
       }
